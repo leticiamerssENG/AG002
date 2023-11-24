@@ -17,7 +17,7 @@ O conjunto de dados foi traduzido de uma versão originalmente concebida por Aha
 
 ### 1. Baixar o Conjunto de Dados
 
-Baixe o conjunto de dados em formato CSV (comma-separated-values) do [link](link_para_o_conjunto_de_dados).
+Baixe o conjunto de dados em formato CSV  do [link]([link_para_o_conjunto_de_dados](https://raw.githubusercontent.com/marcelovca90-inatel/AG002/main/tic-tac-toe.csv)).
 
 ### 2. Fazer a Leitura dos Dados
 
