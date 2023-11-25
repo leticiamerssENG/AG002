@@ -1,5 +1,12 @@
 # Jogo da Velha - Análise de Dados
 
+Trabalho apresentado para validação da Avaliação Global 2 do curso de Engenharia de Software 2/2023.
+
+Integrantes:
+
+- Ana Paula Serafim de Góis;
+- Letícia Vitória Merss Moreira.
+
 Este repositório contém um script Python para treinar um modelo de Machine Learning com base em um conjunto de dados do Jogo da Velha. O conjunto de dados inclui 958 amostras que representam todas as possíveis configurações do tabuleiro do Jogo da Velha.
 
 ## Descrição do Conjunto de Dados
