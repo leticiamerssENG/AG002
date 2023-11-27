@@ -4,8 +4,8 @@ Trabalho apresentado para validação da Avaliação Global 2 do curso de Engenh
 
 Integrantes:
 
-- Ana Paula Serafim de Góis;
-- Letícia Vitória Merss Moreira.
+- Ana Paula Serafim de Góis / 25 / GES;
+- Letícia Vitória Merss Moreira / 56 / GES.
 
 Este repositório contém um script Python para treinar um modelo de Machine Learning com base em um conjunto de dados do Jogo da Velha. O conjunto de dados inclui 958 amostras que representam todas as possíveis configurações do tabuleiro do Jogo da Velha.
 
