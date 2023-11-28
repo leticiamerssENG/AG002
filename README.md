@@ -7,6 +7,8 @@ Integrantes:
 - Ana Paula Serafim de Góis / 25 / GES;
 - Letícia Vitória Merss Moreira / 56 / GES.
 
+- Video: https://drive.google.com/file/d/15O_DO6_-F3r2nXuM5E-BlERyZJ9ZrNeM/view?usp=drivesdk 
+
 Este repositório contém um script Python para treinar um modelo de Machine Learning com base em um conjunto de dados do Jogo da Velha. O conjunto de dados inclui 958 amostras que representam todas as possíveis configurações do tabuleiro do Jogo da Velha.
 
 ## Descrição do Conjunto de Dados
